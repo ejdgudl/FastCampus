@@ -1,7 +1,10 @@
 # FastCampus
 
-| date   |      Title      |   |
+| date     |      Title    |       |
 |----------|:-------------:|------:|
-| 20.04.10 |  Basic(1) | https://github.com/ejdgudl/FastCampus/tree/master/Basics(1).playground/Pages |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| 20.04.10 |  Basic(1)         | https://github.com/ejdgudl/FastCampus/tree/master/Basics(1).playground/Pages |
+| 20.04.13 |   Basic(1)        |   https://github.com/ejdgudl/FastCampus/tree/master/Basics(2).playground/Pages |
+| 20.04.14 |      |      |
+| 20.04.15 |      |      |
+| 20.04.16 |      |      |
+| 20.04.17 |      |      |
