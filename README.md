@@ -7,6 +7,6 @@
 | 20.04.14 |   Collection      |  https://github.com/ejdgudl/FastCampus/blob/master/class/Collection_200414.md    |
 | 20.04.16 |  Optioanal        |       https://github.com/ejdgudl/FastCampus/blob/master/class/Optional_200416.md |
 |          |  Enum             |   https://github.com/ejdgudl/FastCampus/blob/master/class/Optional_200416.md     |
-| 20.04.17 |   Closure         |   https://github.com/ejdgudl/FastCampus/blob/master/class/Closure_200417.md   |
-| 20.04.20 |   OOP(1)          |      |
-| 20.04.21 |   OOP(2)          |      |
+| 20.04.17 |   Closure         |   https://github.com/ejdgudl/FastCampus/blob/master/class/Closure_200417.md      |
+| 20.04.20 |   OOP             |    https://github.com/ejdgudl/FastCampus/blob/master/class/OOP_200420.md.        |
+| 20.04.21 |            |      |
