@@ -14,14 +14,14 @@
 var signedInteger = 123
 signedInteger = +123
 signedInteger = -123
-type(of: signedInteger)
+type(of: signedInteger) // Int
 
 
 // 10진수
 let decimalInteger = 17
 // 2진수
 let binaryInteger = 0b10001
-type(of: binaryInteger)
+type(of: binaryInteger) // Int
 
 // 8진수
 let octalInteger = 0o21
@@ -46,10 +46,10 @@ bigNumber = 0xAB_00_FF_00_FF
  */
 var integer = 123
 integer = -123
-type(of: integer)
+type(of: integer) // Int
 
 var unsignedInteger: UInt = 123
-type(of: unsignedInteger)
+type(of: unsignedInteger)// UInt
 
 
 MemoryLayout<Int8>.size
@@ -150,11 +150,12 @@ Double.leastNormalMagnitude
  */
 var isBool = true
 type(of: isBool)
+// Bool
 
 isBool = false
-//isBool = False
-//isBool = 1
-//isBool = 0
+//isBool = False x
+//isBool = 1 x
+//isBool = 0 x
 
 
 /*:
@@ -164,9 +165,11 @@ isBool = false
  */
 let str = "Hello, world!"
 type(of: str)
+// String
 
 let str1 = ""
 type(of: str1)
+// String
 
 var language: String = "Swift"
 
@@ -178,18 +181,20 @@ var language: String = "Swift"
 
 var nonCharacter = "C"
 type(of: nonCharacter)
+// String
 
 var character: Character = "C"
 type(of: character)
+// Character
 
 MemoryLayout<String>.size
 MemoryLayout<Character>.size
 
 
-//character = "string"
-//character = ' '
-//character = ""
-//character = " "
+//character = "string" // error
+//character = ' ' // error
+//character = "" // error
+//character = " " // 공백도 한글자
 
 
 /*:
@@ -198,6 +203,7 @@ MemoryLayout<Character>.size
  - 문맥상 더 적절한 이름으로 기존 타입의 이름을 참조하여 사용하고 싶을 경우 사용
  ---
  */
+// 타입 별칭
 // typealias <#type name#> = <#type expression#>
 
 typealias Name = String
@@ -205,8 +211,8 @@ typealias Name = String
 let name: Name = "Tory"
 let nameString: String = "Tory"
 
-type(of: name)
-type(of: nameString)
+type(of: name) // String
+type(of: nameString) // String
 
 
 //: [Next](@next)

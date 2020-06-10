@@ -6,12 +6,13 @@
 let height = Int8(5)
 let width = 10
 //let area = height * width
-//print(area)
+//print(area) // error 다른 타입과 연산은 불가능
 
 
 let h = Int8(12)
 //let x = 10 * h
-//print(x)
+//print(x) // 120
+
 
 /*:
  ---
@@ -20,16 +21,19 @@ let h = Int8(12)
  - 13번째 라인 let x = 10 * h 에서는 에러가 발생하지 않는 이유는?
  ---
  */
+// 타입추론
+
+
 
 let num = 10
 let floatNum = Float(num)
-type(of: floatNum)
+type(of: floatNum) // Float
 
 let signedInteger = Int(floatNum)
-type(of: signedInteger)
+type(of: signedInteger) // Int
 
 let str = String(num)
-type(of: str)
+type(of: str) // String
 
 
 //: [Next](@next)

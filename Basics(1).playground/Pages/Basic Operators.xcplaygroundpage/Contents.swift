@@ -32,11 +32,11 @@ a + b
 // Swift 에서 삼항 연산자는 단 하나
 a > 0 ? "positive" : "zero or negative"
 
-//if a > 0 {
-//  "positive"
-//} else {
-//  "negative"
-//}
+if a > 0 {
+  "positive"
+} else {
+  "negative"
+}
 
 
 /*:
@@ -44,14 +44,14 @@ a > 0 ? "positive" : "zero or negative"
  ## Assignment Operators
  ---
  */
-
+// 할당
 var value = 0
 value = value + 10
 value = value - 5
 value = value * 2
 value = value / 2
 value = value % 2
-
+// 모듈로
 10 % 2 // 나머지 0
 11 % 2 // 나머지 1
 13 % 3 // 나머지 1
@@ -162,6 +162,7 @@ if enteredDoorCode && passedRetinaScan || hasDoorKey || knowsOverridePassword {
 } else {
   print("Can't open the door")
 }
+// Open the door
 
 // Explicit Parentheses
 if (enteredDoorCode && passedRetinaScan) || hasDoorKey || knowsOverridePassword {
@@ -225,9 +226,9 @@ for i in 0..<count {   // 0, 1, 2, 3
 
 //               0       1        2       3
 //let names = ["Anna", "Alex", "Brian", "Jack"]
-names[2...]
-names[...2]
-names[..<2]
+names[2...]// ["Brian", "Jack"]
+names[...2]// ["Anna", "Alex", "Brian"]
+names[..<2]// ["Anna", "Alex"]
 
 
 
