@@ -9,4 +9,7 @@
 |          |  Enum             |   https://github.com/ejdgudl/FastCampus/blob/master/class/Optional_200416.md     |
 | 20.04.17 |   Closure         |   https://github.com/ejdgudl/FastCampus/blob/master/class/Closure_200417.md      |
 | 20.04.20 |   OOP             |    https://github.com/ejdgudl/FastCampus/blob/master/class/OOP_200420.md.        |
-| 20.04.21 |            |      |
+| 20.04.21 |   Access Level.   |https://github.com/ejdgudl/FastCampus/blob/master/class/Access%20Levels_200421.md |
+| 20.04.23 |   The App Life Cycle         |   https://github.com/ejdgudl/FastCampus/blob/master/class/Closure_200417.md      |
+| 20.04.24 |      |   |
+| 20.04.27 |      |  |
