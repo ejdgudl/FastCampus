@@ -13,3 +13,7 @@
 |          |   OOP(2)          |https://github.com/ejdgudl/FastCampus/blob/master/class/OOP(2)_200421.md                  |
 | 20.04.23 |The App Life Cycle |https://github.com/ejdgudl/FastCampus/blob/master/class/The%20App%20Life%20Cycle_200424.md|
 | 20.04.24 |    UIGuide        |  https://github.com/ejdgudl/FastCampus/blob/master/class/UIGuide_200425.md               |
+| 20.04.27 |  UIViewController |  https://github.com/ejdgudl/FastCampus/blob/master/class/UIViewController_200427.md      |
+| 20.04.28 |            |            |
+
+
