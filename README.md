@@ -14,6 +14,13 @@
 | 20.04.23 |The App Life Cycle |https://github.com/ejdgudl/FastCampus/blob/master/class/The%20App%20Life%20Cycle_200424.md|
 | 20.04.24 |    UIGuide        |  https://github.com/ejdgudl/FastCampus/blob/master/class/UIGuide_200425.md               |
 | 20.04.27 |  UIViewController |  https://github.com/ejdgudl/FastCampus/blob/master/class/UIViewController_200427.md      |
-| 20.04.28 |            |            |
+| 20.04.28 |     TextField     |         https://github.com/ejdgudl/FastCampus/blob/master/class/TextField_200428.md      |
+| 20.04.2 |          |               |
+| 20.04. |          |               |
+| 20.04. |          |               |
+| 20.04. |          |               |
+| 20.04. |          |               |
+| 20.04. |          |               |
+
 
 
