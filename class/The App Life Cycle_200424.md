@@ -163,4 +163,51 @@
 
 
 }
+
+
+//
+//  SceneDelegate.swift
+//  test
+//
+//  Created by 김동현 on 2020/06/11.
+//  Copyright © 2020 김동현. All rights reserved.
+//
+
+import UIKit
+
+@available(iOS 13.0, *) // 이 씬델리게이트는 ios13 이상에서만 사용하겠다
+class SceneDelegate: UIResponder, UIWindowSceneDelegate {
+
+    var window: UIWindow?
+
+
+    func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
+        guard let _ = (scene as? UIWindowScene) else { return }
+        print("willConnect")
+    }
+
+    func sceneDidDisconnect(_ scene: UIScene) {
+        print("sceneDidDisconnect")
+    }
+
+    func sceneDidBecomeActive(_ scene: UIScene) {
+        print("sceneDidBecomeActive")
+    }
+
+    func sceneWillResignActive(_ scene: UIScene) {
+       print("sceneWillResignActive")
+    }
+
+    func sceneWillEnterForeground(_ scene: UIScene) {
+       print("sceneWillEnterForeground")
+    }
+
+    func sceneDidEnterBackground(_ scene: UIScene) {
+        print("sceneDidEnterBackground")
+    }
+
+
+}
+
+
 ```
