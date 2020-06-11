@@ -4,7 +4,7 @@ internal은 기본값이고 같은 모듈에서 사용할수 있고
 fileprivate는 같은 파일에서 사용하기 위한것이다
 private는 다른 클래스에서 사용하지 못한다
 - open
-
+ 
 - public
 
 - internal
