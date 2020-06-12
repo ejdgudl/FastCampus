@@ -19,6 +19,10 @@
 | 20.05.04 |     Type Casting         |  https://github.com/ejdgudl/FastCampus/blob/master/class/Type%20Casting_200504.md                |
 | 20.05.08 |  Navi and TabBar         | https://github.com/ejdgudl/FastCampus/blob/master/class/Navigation%20TabBar_200508.md            |
 | 20.05.09 |Singleton and UserDefaults|https://github.com/ejdgudl/FastCampus/blob/master/class/Singleton%20And%20UserDefaults_200509.md. |
+| 20.05.11 |    ARC And Struct        |        https://github.com/ejdgudl/FastCampus/blob/master/class/ARC%20and%20Struct_200511.md      |
+| 20.05. |          |               |
+| 20.05. |          |               |
+| 20.05. |          |               |
 | 20.05. |          |               |
 | 20.05. |          |               |
 
