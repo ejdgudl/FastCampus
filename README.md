@@ -15,12 +15,12 @@
 | 20.04.24 |    UIGuide        |  https://github.com/ejdgudl/FastCampus/blob/master/class/UIGuide_200425.md               |
 | 20.04.27 |  UIViewController |  https://github.com/ejdgudl/FastCampus/blob/master/class/UIViewController_200427.md      |
 | 20.04.28 |     TextField     |         https://github.com/ejdgudl/FastCampus/blob/master/class/TextField_200428.md      |
-| 20.04.2 |          |               |
-| 20.04. |          |               |
-| 20.04. |          |               |
-| 20.04. |          |               |
-| 20.04. |          |               |
-| 20.04. |          |               |
+| 20.05.01 |   Calculator menu |https://github.com/ejdgudl/FastCampus/blob/master/class/Calculator%20menu_200501.md       |
+| 20.05.04 |     Type Casting  |               |
+| 20.05. |          |               |
+| 20.05. |          |               |
+| 20.05. |          |               |
+| 20.05. |          |               |
 
 
 
