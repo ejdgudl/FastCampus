@@ -21,8 +21,8 @@
 | 20.05.09 |Singleton and UserDefaults|https://github.com/ejdgudl/FastCampus/blob/master/class/Singleton%20And%20UserDefaults_200509.md. |
 | 20.05.11 |    ARC And Struct        |        https://github.com/ejdgudl/FastCampus/blob/master/class/ARC%20and%20Struct_200511.md      |
 | 20.05.12 |   Delegate               |    https://github.com/ejdgudl/FastCampus/blob/master/class/Delegate_200512.md                    |
-| 20.05. |          |               |
-| 20.05. |          |               |
+| 20.05.14 |             LoginPage    |      https://github.com/ejdgudl/FastCampus/blob/master/class/LoginPage_200514.md                 |
+| 20.05.15 |   AutoLayOut             |               |
 | 20.05. |          |               |
 | 20.05. |          |               |
 
