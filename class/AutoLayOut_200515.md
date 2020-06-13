@@ -65,7 +65,14 @@
 **Embed In** : 컨테이너 뷰 / 뷰컨트롤러 추가
 
 
+```swift
+Frame으로 위치 잡을 때 SafeArea
+
+view.safeAreaInsets.top // safeArea 의 노치 부분 기본값은 44 ios10 이상
+
+UIApplication.shared.statusBarFrame.size.heiht // ios10 이상 에서는 사용 불가
+
 ```
-```
+
 
 
