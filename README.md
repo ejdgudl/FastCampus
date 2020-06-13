@@ -24,7 +24,11 @@
 | 20.05.14 |             LoginPage    |      https://github.com/ejdgudl/FastCampus/blob/master/class/LoginPage_200514.md                 |
 | 20.05.15 |   AutoLayOut             |         https://github.com/ejdgudl/FastCampus/blob/master/class/AutoLayOut_200515.md             |
 | 20.05.18 |     AutoLayOut(2)        |     https://github.com/ejdgudl/FastCampus/blob/master/class/AutoLayOut(2)_200518.md              |
-| 20.05.19 |      Calculator           |               |
+| 20.05.19 |      Calculator           |        https://github.com/ejdgudl/FastCampus/blob/master/class/Calculator_200519.md             |
+| 20.05.22 |                 |                    |
+| 20.05.25 |                 |                    |
+| 20.05.26 |                 |                    |
+| 20.05.28 |                 |                    |
 
 
 
