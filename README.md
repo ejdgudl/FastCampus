@@ -26,7 +26,7 @@
 | 20.05.18 |     AutoLayOut(2)        |     https://github.com/ejdgudl/FastCampus/blob/master/class/AutoLayOut(2)_200518.md              |
 | 20.05.19 |      Calculator          |         https://github.com/ejdgudl/FastCampus/blob/master/class/Calculator_200519.md             |
 | 20.05.25 |   TableView              |         https://github.com/ejdgudl/FastCampus/blob/master/class/UITableView_200525.md            |
-| 20.06.02 |ImagePickerController     |                    |
+| 20.06.02 |ImagePickerController     |https://github.com/ejdgudl/FastCampus/blob/master/class/ImagePickerContorller_200602.md           |
 | 20.06.03 |     Dominos              |                    |
 | 20.05.24 |     UIViewAnimation      |                    |
 
